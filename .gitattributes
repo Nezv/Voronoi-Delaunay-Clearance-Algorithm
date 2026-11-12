@@ -1,0 +1,4 @@
+# Text files are stored with LF and checked out in the platform's style
+* text=auto
+*.py text
+*.png binary
